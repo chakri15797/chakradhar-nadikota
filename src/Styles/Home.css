@@ -11,5 +11,9 @@
     margin: 50px 20px;
   }
   
+  .Resume-button{
+    background-color: rgb(49, 173, 49);
+    color: white;
+  }
   /* Rest of your existing styles for profile, profile-image, name, description, and buttons */
   
